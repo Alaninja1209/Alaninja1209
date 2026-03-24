@@ -1,6 +1,7 @@
 ## Who am I?
 
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alan-alfredo-onofre-ch%25C3%25A1vez-782928176/?skipRedirect=true)
+[![alanalfre.2001@gmail.com](https://shields.io/badge/%F0%9F%93%AC%20hi@hanrodz.com-beige?style=for-the-badge)](mailto:alanalfre.2001@gmail.com)
 
 My name is Alan. I'm a Data Scientist with +1.5 years of experience working at Monterrey Institute of Technology and C3.AI, proficient in machine learning, quality assurance automation, and applying AI strategies for impactful decision-making.
 
